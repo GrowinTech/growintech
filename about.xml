@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		<url>
+			<loc>https://techingrow.github.io/techingrow/about.html</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+		<url>
+			<loc>https://techingrow.github.io/index.html</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+		<url>
+			<loc>https://techingrow.github.io/#</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+		<url>
+			<loc>https://techingrow.github.io/about.html</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+		<url>
+			<loc>https://techingrow.github.io/team.html</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+		<url>
+			<loc>https://techingrow.github.io/portfolio.html</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+		<url>
+			<loc>https://techingrow.github.io/blog.html</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+		<url>
+			<loc>https://techingrow.github.io/single.html</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+		<url>
+			<loc>https://techingrow.github.io/enquiry.html</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+		<url>
+			<loc>https://techingrow.github.io/service.html</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+		<url>
+			<loc>https://techingrow.github.io/contact.html</loc>
+			<changefreq>never</changefreq>
+		</url>
+
+	</urlset>
+
